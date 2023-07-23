@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nWU54fjr6Lm2Ssb5oqfdMWJLRmGaS0B0v8hsV9nLRF1LBd+5Abfd4evldLgd09qk+yT6QbcrFxQsI5RnscJ2og==",
+  "dgSpecHash": "p+S145yEoO6IvY3U0Ui+O3f9HHNUaO7Mlraf+VVMNfGKA+E8zahB2438rl1Zj1FLKzOb9yYM/Ht6JNVN8jPimg==",
   "success": true,
-  "projectFilePath": "G:\\Projects\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+  "projectFilePath": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fuada\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\fuada\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

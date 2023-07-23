@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Projects\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
+    "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
   },
   "projects": {
-    "G:\\Projects\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {
+    "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projects\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectUniqueName": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "projectName": "BulkyBookWeb",
-        "projectPath": "G:\\Projects\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectPath": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "packagesPath": "C:\\Users\\fuada\\.nuget\\packages\\",
-        "outputPath": "G:\\Projects\\BulkyBook\\BulkyBookWeb\\obj\\",
+        "outputPath": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fuada\\AppData\\Roaming\\NuGet\\NuGet.Config",
