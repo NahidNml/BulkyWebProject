@@ -1606,3 +1606,7 @@ D:\git_practice\BulkyWebProject\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBoo
 D:\git_practice\BulkyWebProject\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.dll
 D:\git_practice\BulkyWebProject\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
 D:\git_practice\BulkyWebProject\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.pdb
+G:\Projects\BulkyWebProject\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.DataAccess.dll
+G:\Projects\BulkyWebProject\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.dll
+G:\Projects\BulkyWebProject\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
+G:\Projects\BulkyWebProject\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.pdb
