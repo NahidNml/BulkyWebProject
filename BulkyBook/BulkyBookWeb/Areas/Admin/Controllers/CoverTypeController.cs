@@ -2,8 +2,9 @@
 using BulkyBook.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BulkyBookWeb.Controllers
+namespace BulkyBookWeb.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class CoverTypeController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
@@ -58,7 +59,7 @@ namespace BulkyBookWeb.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Edit(CoverType obj)
         {
-            
+
             if (ModelState.IsValid)
             {
                 _unitOfWork.CoverType.Update(obj);
@@ -77,7 +78,7 @@ namespace BulkyBookWeb.Controllers
             if (id == null || id == 0)
             {
                 return NotFound();
-            }          
+            }
             var coverTypeFromFirst = _unitOfWork.CoverType.GetFirstOrDefault(u => u.Id == id);
             if (coverTypeFromFirst == null)
             {
