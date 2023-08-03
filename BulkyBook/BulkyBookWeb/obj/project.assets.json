@@ -10871,19 +10871,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fuada\\.nuget\\packages\\": {}
+    "C:\\Users\\C3288\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+      "projectUniqueName": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
       "projectName": "BulkyBookWeb",
-      "projectPath": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
-      "packagesPath": "C:\\Users\\fuada\\.nuget\\packages\\",
-      "outputPath": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\obj\\",
+      "projectPath": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+      "packagesPath": "C:\\Users\\C3288\\.nuget\\packages\\",
+      "outputPath": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\fuada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\C3288\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10891,14 +10891,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
-              "projectPath": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj"
+            "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
+              "projectPath": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj"
             }
           }
         }
@@ -10955,7 +10956,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

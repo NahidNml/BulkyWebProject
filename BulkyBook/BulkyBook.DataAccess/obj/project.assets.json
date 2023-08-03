@@ -2060,19 +2060,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fuada\\.nuget\\packages\\": {}
+    "C:\\Users\\C3288\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
+      "projectUniqueName": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
       "projectName": "BulkyBook.DataAccess",
-      "projectPath": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\fuada\\.nuget\\packages\\",
-      "outputPath": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBook.DataAccess\\obj\\",
+      "projectPath": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\C3288\\.nuget\\packages\\",
+      "outputPath": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBook.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\fuada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\C3288\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2086,8 +2086,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
-              "projectPath": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj"
+            "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+              "projectPath": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj"
             }
           }
         }
@@ -2133,7 +2133,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

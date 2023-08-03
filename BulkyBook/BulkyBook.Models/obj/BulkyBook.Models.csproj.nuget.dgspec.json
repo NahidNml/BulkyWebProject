@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {}
+    "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {}
   },
   "projects": {
-    "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+    "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
+        "projectUniqueName": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
         "projectName": "BulkyBook.Models",
-        "projectPath": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
-        "packagesPath": "C:\\Users\\fuada\\.nuget\\packages\\",
-        "outputPath": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBook.Models\\obj\\",
+        "projectPath": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
+        "packagesPath": "C:\\Users\\C3288\\.nuget\\packages\\",
+        "outputPath": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBook.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fuada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\C3288\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
