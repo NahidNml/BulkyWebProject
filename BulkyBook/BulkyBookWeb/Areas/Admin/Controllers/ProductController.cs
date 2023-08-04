@@ -1,6 +1,8 @@
 ﻿using BulkyBook.DataAccess.Repository.IRepository;
 using BulkyBook.Models;
+using BulkyBook.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace BulkyBookWeb.Areas.Admin.Controllers
 {
@@ -18,51 +20,80 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
             IEnumerable<Product> objCoverTypeList = _unitOfWork.Product.GetAll();
             return View(objCoverTypeList);
         }
-        //GET
-        public IActionResult Create()
-        {
-            return View();
-        }
+        ////GET
+        //public IActionResult Create()
+        //{
+        //    return View();
+        //}
 
-        //POST
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public IActionResult Create(Product obj)
+        ////POST
+        //[HttpPost]
+        //[ValidateAntiForgeryToken]
+        //public IActionResult Create(Product obj)
+        //{
+        //    if (ModelState.IsValid)
+        //    {
+        //        _unitOfWork.Product.Add(obj);
+        //        _unitOfWork.Save();
+        //        TempData["success"] = "Product created successfully";
+        //        return RedirectToAction("Index");
+        //    }
+        //    return View(obj);
+        //}
+
+        //GET
+        public IActionResult Upsert(int? id)
         {
-            if (ModelState.IsValid)
+            //Product product = new();
+            //IEnumerable<SelectListItem> CategoryList = _unitOfWork.Category.GetAll().Select(
+            //    u => new SelectListItem()
+            //    {
+            //        Text = u.Name,
+            //        Value = u.Id.ToString()
+            //    });
+            //IEnumerable<SelectListItem> CoverTypeList = _unitOfWork.CoverType.GetAll().Select(
+            //    u => new SelectListItem()
+            //    {
+            //        Text = u.Name,
+            //        Value = u.Id.ToString()
+            //    });
+            ProductVM productVM = new()
             {
-                _unitOfWork.Product.Add(obj);
-                _unitOfWork.Save();
-                TempData["success"] = "Product created successfully";
-                return RedirectToAction("Index");
-            }
-            return View(obj);
-        }
-
-        //GET
-        public IActionResult Edit(int? id)
-        {
+                Product = new(),
+                CategoryList = _unitOfWork.Category.GetAll().Select(i => new SelectListItem
+                {
+                    Text = i.Name,
+                    Value = i.Id.ToString()
+                }),
+                CoverTypeList = _unitOfWork.CoverType.GetAll().Select(i => new SelectListItem
+                {
+                    Text = i.Name,
+                    Value = i.Id.ToString()
+                }),
+            };
             if (id == null || id == 0)
             {
-                return NotFound();
+                //create product
+                //ViewBag.CategoryList = CategoryList;
+                //ViewData["CoverTypeList"] = CoverTypeList;
+                return View(productVM);
             }
-            var coverTypeFromFirst = _unitOfWork.Product.GetFirstOrDefault(u => u.Id == id);
-            if (coverTypeFromFirst == null)
+            else
             {
-                return NotFound();
+                //update product
             }
-            return View(coverTypeFromFirst);
+            return View(productVM);
         }
 
         //POST
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(Product obj)
+        public IActionResult Upsert(ProductVM obj, IFormFile file)
         {
 
             if (ModelState.IsValid)
             {
-                _unitOfWork.Product.Update(obj);
+                //_unitOfWork.Product.Update(obj);
                 _unitOfWork.Save();
                 TempData["success"] = "Product updated successfully";
                 return RedirectToAction("Index");
