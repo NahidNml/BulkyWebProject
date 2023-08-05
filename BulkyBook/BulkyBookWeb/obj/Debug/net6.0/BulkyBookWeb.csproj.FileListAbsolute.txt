@@ -1612,3 +1612,5 @@ G:\Projects\BulkyWebProject\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Da
 G:\Projects\BulkyWebProject\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.pdb
 G:\Projects\BulkyWebProject\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 G:\Projects\BulkyWebProject\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\git_practice\BulkyWebProject\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\git_practice\BulkyWebProject\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
