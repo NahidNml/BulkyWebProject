@@ -17,12 +17,36 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\406a4a36-cfc1-4219-ad57-5a5eb61eecc3.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\406a4a36-cfc1-4219-ad57-5a5eb61eecc3.jpg"
+      "Id": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\1b10ef72-d4cd-4661-ad43-b3bdcd5da1c4.png",
+      "PackagePath": "staticwebassets\\images\\products\\1b10ef72-d4cd-4661-ad43-b3bdcd5da1c4.png"
     },
     {
-      "Id": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\a5c192d8-193f-4598-9f0e-5a0dbaefc6d1.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\a5c192d8-193f-4598-9f0e-5a0dbaefc6d1.jpg"
+      "Id": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\1fef3f02-0183-4fea-ba90-1f079ca00d2d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1fef3f02-0183-4fea-ba90-1f079ca00d2d.jpg"
+    },
+    {
+      "Id": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\3841d38f-8817-4e48-a70a-5d7d8aecc240.png",
+      "PackagePath": "staticwebassets\\images\\products\\3841d38f-8817-4e48-a70a-5d7d8aecc240.png"
+    },
+    {
+      "Id": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\3e5f7b3f-e4a4-4149-8e71-d27e966a9984.png",
+      "PackagePath": "staticwebassets\\images\\products\\3e5f7b3f-e4a4-4149-8e71-d27e966a9984.png"
+    },
+    {
+      "Id": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\594d0e9b-3354-4b06-a7eb-0694c6a1b4a5.png",
+      "PackagePath": "staticwebassets\\images\\products\\594d0e9b-3354-4b06-a7eb-0694c6a1b4a5.png"
+    },
+    {
+      "Id": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\78ebab05-bdaa-408e-bdae-f8dea5638f57.png",
+      "PackagePath": "staticwebassets\\images\\products\\78ebab05-bdaa-408e-bdae-f8dea5638f57.png"
+    },
+    {
+      "Id": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\88ea8f75-1666-4805-84f1-7b4fe4dd5e5b.png",
+      "PackagePath": "staticwebassets\\images\\products\\88ea8f75-1666-4805-84f1-7b4fe4dd5e5b.png"
+    },
+    {
+      "Id": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\d026fd70-3d50-4c2a-98c2-3c4f862a2359.png",
+      "PackagePath": "staticwebassets\\images\\products\\d026fd70-3d50-4c2a-98c2-3c4f862a2359.png"
     },
     {
       "Id": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",
