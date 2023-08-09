@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "W3hl2FSG7qqaN6RhWK0/bKhTyrxG6GbMaMl1GVoKsNw=",
+  "Hash": "u4HMgnmo+yfcSMJ6ZUhBQz/DF5iwMsapOPZE0+eh88Q=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BulkyBookWeb\\wwwroot",
       "Source": "BulkyBookWeb",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\css\\site.css",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\favicon.ico",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\favicon.ico",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\js\\site.js",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\js\\site.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -643,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -694,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -711,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -728,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -745,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -762,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -779,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -796,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -813,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -830,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -847,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -864,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -881,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -898,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -915,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -932,13 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -949,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -966,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1000,13 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1017,13 +1017,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1034,13 +1034,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\C3288\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\fuada\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.20\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BulkyBookWeb.styles.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BulkyBookWeb.styles.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "BulkyBookWeb.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BulkyBookWeb.styles.css"
+      "OriginalItemSpec": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BulkyBookWeb.styles.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BulkyBookWeb.bundle.scp.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BulkyBookWeb.bundle.scp.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "BulkyBookWeb.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BulkyBookWeb.bundle.scp.css"
+      "OriginalItemSpec": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BulkyBookWeb.bundle.scp.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\bootswatchTheme.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\bootswatchTheme.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "css/bootswatchTheme.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\site.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\site.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\favicon.ico",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\favicon.ico",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1122,12 +1122,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\1b10ef72-d4cd-4661-ad43-b3bdcd5da1c4.png",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\58fa5a53-cf07-4c7a-a4e1-157f7f6c048c.jpg",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
-      "RelativePath": "images/products/1b10ef72-d4cd-4661-ad43-b3bdcd5da1c4.png",
+      "RelativePath": "images/products/58fa5a53-cf07-4c7a-a4e1-157f7f6c048c.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1136,15 +1136,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\1b10ef72-d4cd-4661-ad43-b3bdcd5da1c4.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\58fa5a53-cf07-4c7a-a4e1-157f7f6c048c.jpg"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\1fef3f02-0183-4fea-ba90-1f079ca00d2d.jpg",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\6c1a5a7f-96c4-405a-8dbe-989d5db18dab.jpg",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
-      "RelativePath": "images/products/1fef3f02-0183-4fea-ba90-1f079ca00d2d.jpg",
+      "RelativePath": "images/products/6c1a5a7f-96c4-405a-8dbe-989d5db18dab.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1153,15 +1153,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\1fef3f02-0183-4fea-ba90-1f079ca00d2d.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\6c1a5a7f-96c4-405a-8dbe-989d5db18dab.jpg"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\233f8d2d-274a-4b47-8e75-f7422fddfddd.jpg",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\909c50f0-b61c-48ef-94d0-cb839c2027a6.jpg",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
-      "RelativePath": "images/products/233f8d2d-274a-4b47-8e75-f7422fddfddd.jpg",
+      "RelativePath": "images/products/909c50f0-b61c-48ef-94d0-cb839c2027a6.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1170,15 +1170,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\233f8d2d-274a-4b47-8e75-f7422fddfddd.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\909c50f0-b61c-48ef-94d0-cb839c2027a6.jpg"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\2c83ea37-3cb4-4852-894d-ef1ce8120af7.jpg",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\b0fc3068-b2c2-4d17-807b-eb29b71d80bc.jpg",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
-      "RelativePath": "images/products/2c83ea37-3cb4-4852-894d-ef1ce8120af7.jpg",
+      "RelativePath": "images/products/b0fc3068-b2c2-4d17-807b-eb29b71d80bc.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1187,15 +1187,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\2c83ea37-3cb4-4852-894d-ef1ce8120af7.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\b0fc3068-b2c2-4d17-807b-eb29b71d80bc.jpg"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\3e5f7b3f-e4a4-4149-8e71-d27e966a9984.png",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\f8b49eb1-b942-4dd8-9635-65d496216e7d.jpg",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
-      "RelativePath": "images/products/3e5f7b3f-e4a4-4149-8e71-d27e966a9984.png",
+      "RelativePath": "images/products/f8b49eb1-b942-4dd8-9635-65d496216e7d.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1204,15 +1204,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\3e5f7b3f-e4a4-4149-8e71-d27e966a9984.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\f8b49eb1-b942-4dd8-9635-65d496216e7d.jpg"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\4950ab18-32f2-483f-b683-6ecdce54ab5f.jpg",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\company.js",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
-      "RelativePath": "images/products/4950ab18-32f2-483f-b683-6ecdce54ab5f.jpg",
+      "RelativePath": "js/company.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1221,47 +1221,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\4950ab18-32f2-483f-b683-6ecdce54ab5f.jpg"
+      "OriginalItemSpec": "wwwroot\\js\\company.js"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\514f2c03-72f1-445b-a9f8-3d2936c73b3d.jpg",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
-      "BasePath": "_content/BulkyBookWeb",
-      "RelativePath": "images/products/514f2c03-72f1-445b-a9f8-3d2936c73b3d.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\514f2c03-72f1-445b-a9f8-3d2936c73b3d.jpg"
-    },
-    {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\a855d124-c6a5-4e10-a760-2c86fd0c86d2.jpg",
-      "SourceId": "BulkyBookWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
-      "BasePath": "_content/BulkyBookWeb",
-      "RelativePath": "images/products/a855d124-c6a5-4e10-a760-2c86fd0c86d2.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\a855d124-c6a5-4e10-a760-2c86fd0c86d2.jpg"
-    },
-    {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",
-      "SourceId": "BulkyBookWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "js/product.js",
       "AssetKind": "All",
@@ -1275,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\site.js",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\site.js",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1292,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1309,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1326,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1343,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1360,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1377,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1394,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1411,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1428,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1445,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1462,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1479,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1496,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1513,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1530,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1547,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1564,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1581,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1598,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1615,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1632,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1649,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1666,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1683,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1700,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1717,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1734,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1751,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1768,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1785,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1802,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1819,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1836,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1853,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1870,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1887,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1904,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1921,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1938,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1955,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1972,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1989,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2006,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2023,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2040,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2057,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2074,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2091,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2108,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2125,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2142,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2159,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2176,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2193,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2210,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2227,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2244,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\git_practice\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "ContentRoot": "G:\\Projects\\BulkyWebProject\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
       "BasePath": "_content/BulkyBookWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

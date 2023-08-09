@@ -125,14 +125,15 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
                 if (obj.Product.Id == 0) //create here
                 {
                     _unitOfWork.Product.Add(obj.Product);
+                    TempData["success"] = "Product created successfully";
                 }
                 else //update here
                 {
                     _unitOfWork.Product.Update(obj.Product);
+                    TempData["success"] = "Product updated successfully";
                 }
-
                 _unitOfWork.Save();
-                TempData["success"] = "Product created successfully";
+                
                 return RedirectToAction("Index");
             }
             return View(obj);
